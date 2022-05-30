@@ -1,0 +1,3 @@
+# Predict-the-popularity-of-a-song-using-Multi-Layer-Perceptron
+A multilayer perceptron (MLP) is a deep, artificial neural network. It is composed of more than one perceptron. They are composed of an input layer to receive the signal, an output layer that makes a decision or prediction about the input, and in between those two, an arbitrary number of hidden layers that are the true computational engine of the MLP. MLPs with one hidden layer are capable of approximating any continuous function.
+![image](https://user-images.githubusercontent.com/78899126/171038686-49ea763a-3c9a-4d66-b586-7df8823ae961.png)
